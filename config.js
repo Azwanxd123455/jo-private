@@ -22,8 +22,8 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6283181341902','6283181341902','6283181341902']
-global.premium = ['6285893481599']
+global.owner = ['6285800256275','18315340596','18315340596']
+global.premium = ['18315340596']
 global.packname = 'ÚQÖñ Ä††ÄÇKÈR'
 global.author = 'ÚQÖñ Ä††ÄÇKÈR'
 global.wlcm = []
